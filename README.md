@@ -1,6 +1,6 @@
 # 🚩 CyberEDU CTF Write-ups
 
-Welcome! This repository is a personal collection of my write-ups and solutions for various Capture The Flag (CTF) challenges from the [CyberEDU](https://cyberedu.ro/) platform. 
+Welcome! This repository is a personal collection of my write-ups and solutions for various Capture The Flag (CTF) challenges from the [CyberEDU](https://www.cyber-edu.co/) platform. 
 
 I am currently a beginner in cybersecurity, so I created this repo to document my learning journey, keep track of the tools I use, and share my thought process as I figure things out.
 
